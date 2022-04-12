@@ -207,11 +207,23 @@
         <trackTrending>false</trackTrending>
         <type>Text</type>
         <unique>false</unique>
-    </fields><fields>
+    </fields>
+    <fields>
         <fullName>Campito5__c</fullName>
         <description>Campo de prueba 4</description>
         <externalId>false</externalId>
         <label>Campito 5</label>
+        <length>10</length>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>Campito6__c</fullName>
+        <description>Campo de prueba 4</description>
+        <externalId>false</externalId>
+        <label>Campito 6</label>
         <length>10</length>
         <required>false</required>
         <trackTrending>false</trackTrending>
