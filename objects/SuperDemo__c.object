@@ -176,6 +176,17 @@
         <unique>false</unique>
     </fields>
     <fields>
+        <fullName>Campito3__c</fullName>
+        <description>Campo de prueba 1</description>
+        <externalId>false</externalId>
+        <label>Campito3</label>
+        <length>10</length>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
         <fullName>Campito2__c</fullName>
         <description>Campo de prueba 2</description>
         <externalId>false</externalId>
