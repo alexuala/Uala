@@ -241,4 +241,15 @@
         <type>Text</type>
         <unique>false</unique>
     </fields>
+    <fields>
+        <fullName>Campito8__c</fullName>
+        <description>Campo de prueba 4</description>
+        <externalId>false</externalId>
+        <label>Campito 8</label>
+        <length>10</length>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
 </CustomObject>
